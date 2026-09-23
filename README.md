@@ -50,7 +50,10 @@ Hemos colaborado en el proyecto:
 - [ ] Hacer commit
 
 That is so funny! :joy: 
+Modificación realizada en Windows.
 
 
 
 ## Ahora mismo estamos en la rama main, y no está el mensaje del Branch
+
+#Creamos nuestra primera Branch (rama)
