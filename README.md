@@ -35,7 +35,7 @@ Hemos colaborado en el proyecto:
   "lastName": "Smith",
   "age": 25
 }
-  ```
+
 
 ~~The world is flat.~~
 
